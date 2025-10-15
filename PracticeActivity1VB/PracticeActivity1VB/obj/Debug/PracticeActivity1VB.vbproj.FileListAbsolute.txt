@@ -1,0 +1,11 @@
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\bin\Debug\PracticeActivity1VB.exe.config
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\bin\Debug\PracticeActivity1VB.exe
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\bin\Debug\PracticeActivity1VB.pdb
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\bin\Debug\PracticeActivity1VB.xml
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.vbproj.AssemblyReference.cache
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.Resources.resources
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.vbproj.GenerateResource.cache
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.vbproj.CoreCompileInputs.cache
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.exe
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.xml
+D:\tashr\Software Codes\VB.net intro\PracticeActivity1VB\PracticeActivity1VB\obj\Debug\PracticeActivity1VB.pdb

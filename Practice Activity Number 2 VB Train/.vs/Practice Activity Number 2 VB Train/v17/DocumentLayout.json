@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activity Number 2 VB Train\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FCCE1A-A441-42E2-A3C7-E341C8E422F2}|Practice Activity Number 2 VB Train\\Practice Activity Number 2 VB Train.vbproj|d:\\tashr\\software codes\\vb.net intro\\practice activity number 2 vb train\\practice activity number 2 vb train\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F0FCCE1A-A441-42E2-A3C7-E341C8E422F2}|Practice Activity Number 2 VB Train\\Practice Activity Number 2 VB Train.vbproj|solutionrelative:practice activity number 2 vb train\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activity Number 2 VB Train\\Practice Activity Number 2 VB Train\\Module1.vb",
+              "RelativeDocumentMoniker": "Practice Activity Number 2 VB Train\\Module1.vb",
+              "ToolTip": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activity Number 2 VB Train\\Practice Activity Number 2 VB Train\\Module1.vb",
+              "RelativeToolTip": "Practice Activity Number 2 VB Train\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-01T21:41:18.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

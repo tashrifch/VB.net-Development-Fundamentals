@@ -1,0 +1,12 @@
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\bin\Debug\Practice Activity Number 4(Loops&try-expect).exe.config
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\bin\Debug\Practice Activity Number 4(Loops&try-expect).exe
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\bin\Debug\Practice Activity Number 4(Loops&try-expect).pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\bin\Debug\Practice Activity Number 4(Loops&try-expect).xml
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).vbproj.AssemblyReference.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice_Activity_Number_4_Loops_try_expect_.Resources.resources
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).vbproj.GenerateResource.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).vbproj.CoreCompileInputs.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).exe
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).xml
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 4(Loops&try-expect)\Practice Activity Number 4(Loops&try-expect)\obj\Debug\Practice Activity Number 4(Loops&try-expect).exe.config

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activities\\Practice Acitivity #5(Class)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12AD93AE-CE40-4E87-95C7-A5D787783A34}|Practice Acitivity #5(Class)\\Practice Acitivity #5(Class).vbproj|d:\\tashr\\software codes\\vb.net intro\\practice activities\\practice acitivity #5(class)\\practice acitivity #5(class)\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{12AD93AE-CE40-4E87-95C7-A5D787783A34}|Practice Acitivity #5(Class)\\Practice Acitivity #5(Class).vbproj|solutionrelative:practice acitivity #5(class)\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activities\\Practice Acitivity #5(Class)\\Practice Acitivity #5(Class)\\Module1.vb",
+              "RelativeDocumentMoniker": "Practice Acitivity #5(Class)\\Module1.vb",
+              "ToolTip": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activities\\Practice Acitivity #5(Class)\\Practice Acitivity #5(Class)\\Module1.vb",
+              "RelativeToolTip": "Practice Acitivity #5(Class)\\Module1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-04T18:31:25.858Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

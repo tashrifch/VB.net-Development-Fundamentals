@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activity Number 4(Loops\u0026try-expect)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A817AF-1F21-40C1-BB81-4E2ED7C4B3E3}|Practice Activity Number 4(Loops\u0026try-expect)\\Practice Activity Number 4(Loops\u0026try-expect).vbproj|d:\\tashr\\software codes\\vb.net intro\\practice activity number 4(loops\u0026try-expect)\\practice activity number 4(loops\u0026try-expect)\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{35A817AF-1F21-40C1-BB81-4E2ED7C4B3E3}|Practice Activity Number 4(Loops\u0026try-expect)\\Practice Activity Number 4(Loops\u0026try-expect).vbproj|solutionrelative:practice activity number 4(loops\u0026try-expect)\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Module1.vb",
+              "DocumentMoniker": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activity Number 4(Loops\u0026try-expect)\\Practice Activity Number 4(Loops\u0026try-expect)\\Module1.vb",
+              "RelativeDocumentMoniker": "Practice Activity Number 4(Loops\u0026try-expect)\\Module1.vb",
+              "ToolTip": "D:\\tashr\\Software Codes\\VB.net intro\\Practice Activity Number 4(Loops\u0026try-expect)\\Practice Activity Number 4(Loops\u0026try-expect)\\Module1.vb",
+              "RelativeToolTip": "Practice Activity Number 4(Loops\u0026try-expect)\\Module1.vb",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-03T18:15:37.291Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

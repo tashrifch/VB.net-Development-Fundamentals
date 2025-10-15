@@ -1,0 +1,12 @@
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\bin\Debug\Practice Acitivity #5(Class).exe.config
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\bin\Debug\Practice Acitivity #5(Class).exe
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\bin\Debug\Practice Acitivity #5(Class).pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\bin\Debug\Practice Acitivity #5(Class).xml
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).vbproj.AssemblyReference.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice_Acitivity__5_Class_.Resources.resources
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).vbproj.GenerateResource.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).vbproj.CoreCompileInputs.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).exe
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).xml
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Acitivity #5(Class)\Practice Acitivity #5(Class)\obj\Debug\Practice Acitivity #5(Class).exe.config

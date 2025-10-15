@@ -1,0 +1,13 @@
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\bin\Debug\Practice Activity 13 Windows Forms app.exe.config
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\bin\Debug\Practice Activity 13 Windows Forms app.exe
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\bin\Debug\Practice Activity 13 Windows Forms app.pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\bin\Debug\Practice Activity 13 Windows Forms app.xml
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.vbproj.AssemblyReference.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice_Activity_13_Windows_Forms_app.Form1.resources
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice_Activity_13_Windows_Forms_app.Resources.resources
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.vbproj.GenerateResource.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.vbproj.CoreCompileInputs.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.exe
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.xml
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activities\Practice Activity 13 Windows Forms app\Practice Activity 13 Windows Forms app\obj\Debug\Practice Activity 13 Windows Forms app.exe.config

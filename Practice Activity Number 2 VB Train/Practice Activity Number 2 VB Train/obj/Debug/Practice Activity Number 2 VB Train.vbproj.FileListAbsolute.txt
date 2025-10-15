@@ -1,0 +1,12 @@
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\bin\Debug\Practice Activity Number 2 VB Train.exe.config
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\bin\Debug\Practice Activity Number 2 VB Train.exe
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\bin\Debug\Practice Activity Number 2 VB Train.pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\bin\Debug\Practice Activity Number 2 VB Train.xml
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.vbproj.AssemblyReference.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice_Activity_Number_2_VB_Train.Resources.resources
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.vbproj.GenerateResource.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.vbproj.CoreCompileInputs.cache
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.exe
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.xml
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.pdb
+D:\tashr\Software Codes\VB.net intro\Practice Activity Number 2 VB Train\Practice Activity Number 2 VB Train\obj\Debug\Practice Activity Number 2 VB Train.exe.config
